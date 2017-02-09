@@ -1,4 +1,4 @@
-# HotFixDemo     
+# HotFix    
 
 ###利用JSPatch平台发布管理补丁      
 
